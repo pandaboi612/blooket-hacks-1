@@ -6,6 +6,7 @@ This repo contains hacks for the popular game [Blooket](https://blooket.com/)!
 ## Acknowledgements
 
  - I am NOT responsible for any actions taken on your account for using this hack.
+ - Always use this with care, know there is a chance of getting banned.
  - Follow the [license](https://github.com/Jude-Gideon/Blooket/blob/main/LICENSE) when forking this repo.
 ## Support
 
