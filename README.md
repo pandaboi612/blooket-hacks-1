@@ -1,4 +1,4 @@
-# Support Discord: https://discord.gg/QSYJ7vJqJ3
+# Support Discord: https://discord.gg/aeDraxAUpB
 
 # Blooket Hacks
 
