@@ -1,4 +1,4 @@
-# Support Discord Server: https://discord.gg/QSYJ7vJqJ3
+# Support Discord Server: https://discord.gg/aeDraxAUpB
 
 # Global
 
