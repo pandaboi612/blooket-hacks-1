@@ -22,10 +22,6 @@ Note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [antiBan.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/antiBan.js)
 
-# floodGame.js
-
-### Get the script from the file [floodGame.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/floodGame.js)
-
 # openPacks.js
 
 ### Get the script from the file [openPacks.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/global/openPacks.js)
