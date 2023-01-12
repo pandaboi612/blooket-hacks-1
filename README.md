@@ -10,7 +10,7 @@ This repo contains hacks for the popular game [Blooket](https://blooket.com/)!
  - Follow the [license](https://github.com/Jude-Gideon/Blooket/blob/main/LICENSE) when forking this repo.
 ## Support
 
-For support, create an [issue](https://github.com/Jude-Gideon/Blooket/issues/new) or join our [Discord](https://discord.gg/QSYJ7vJqJ3).
+For support, create an [issue](https://github.com/Jude-Gideon/Blooket/issues/new) or join our [Discord](https://discord.gg/aeDraxAUpB).
 
 > These should always be working, let me know of any issues.
 
@@ -30,4 +30,3 @@ https://user-images.githubusercontent.com/113489420/202098239-6083a948-1016-4ee1
 ## Authors
 
 - [@Jude-Gideon](https://www.github.com/Jude-Gideon)
-- [@wtfsparky](https://www.github.com/wtfsparky)
