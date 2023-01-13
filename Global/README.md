@@ -28,7 +28,7 @@ Note: **This cheat also includes adding max xp for the day**
 
 # plusGamemodes.js
 
-### Get the script from the file [plusGamemodes.js](https://raw.githubusercontent/com/Jude-Gideon/Blooket/man/global/plusGamemodes.js)
+### Get the script from the file [plusGamemodes.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/man/global/plusGamemodes.js)
 
 # sellDuplicates.js
 
