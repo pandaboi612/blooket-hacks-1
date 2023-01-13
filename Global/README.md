@@ -26,6 +26,10 @@ Note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [openPacks.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/global/openPacks.js)
 
+# plusGamemodes.js
+
+### Get the script from the file [plusGamemodes.js](https://raw.githubusercontent/com/Jude-Gideon/Blooket/man/global/plusGamemodes.js)
+
 # sellDuplicates.js
 
 ### Get the script from the file [sellDuplicates.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/global/sellDuplicates.js)
