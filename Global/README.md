@@ -26,6 +26,10 @@ Note: **This cheat also includes adding max xp for the day**
 
 ### Get the script from the file [gui.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/gui.js)
 
+# noDelay.js
+
+### Get the script from the fil [noDelay.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/noDelay.js)
+
 # openPacks.js
 
 ### Get the script from the file [openPacks.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/global/openPacks.js)
