@@ -1,6 +1,6 @@
 # Support Discord Server: https://discord.gg/aeDraxAUpB
 
-# Global
+# Fishing Frenzy
 
 All these cheats in the folder can be used in Fishing Frenzy.
 
