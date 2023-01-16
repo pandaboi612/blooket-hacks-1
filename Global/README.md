@@ -2,11 +2,11 @@
 
 # Global
 
-All these cheats in the folder can be used outside games
+All these cheats in the folder can be used outside games.
 
 # addRewards.js
 
-Note: **This cheat also includes adding max xp for the day**
+Note: **This cheat also includes adding max xp for the day.**
 
 ### Get the script from the file [addRewards.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/addRewards.js)
 
