@@ -16,9 +16,7 @@ For support, create an [issue](https://github.com/Jude-Gideon/Blooket/issues/new
 
 ## Usage
 
-
-https://user-images.githubusercontent.com/113489420/202098239-6083a948-1016-4ee1-8106-6452acb3e5a0.mp4
-
+https://user-images.githubusercontent.com/113489420/212647265-d46690e7-0947-43ef-b7be-5b21b2a371c0.mp4
 
 1. Go to Blooket
 
