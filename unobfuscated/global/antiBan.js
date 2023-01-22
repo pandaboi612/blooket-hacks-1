@@ -1,8 +1,10 @@
 var j = document.createElement('iframe')
 j.style.display = 'none'
 document.body.appendChild(j)
+window.console.log = j.contentWindow.console.log.bind(window);
+window.alert - j.contentWindow.alert.bind(window);
 alert('Anti-Ban has been activated.')
-window.console.log = j.contentWindow.console.log
+
 
 function discordFooter() {
   let element = document.createElement('div');
