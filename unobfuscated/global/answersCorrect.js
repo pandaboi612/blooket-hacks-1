@@ -37,15 +37,12 @@ function discordFooter() {
   
   discordFooter();
 
-  setInterval(function () {
-    var hack = Object.values(document.querySelector('#app > div > div'))[1]
-      .children[1]['_owner'].stateNode.state.question
-    try {
-      hack.correctAnswers = hack.answers
-    } catch (err) {
-      null
-    }
-  })
+const { stateNode } = Object.values(document
+                                                .querySelector('#app > div > div'))[1]
+                                                .children[0]._owner;
+                stateNode.freeQuestions = stateNode.questions = stateNode.props.client.questions.map
+                (j => ({ ...j, correctAnswers: j.answers }));
+
 
     console.log(
         '%c CHEATS BY JUDE GIDEON %c\n\thttps://discord.gg/aeDraxAUpB',
