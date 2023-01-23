@@ -37,12 +37,6 @@ function discordFooter() {
   
   discordFooter();
 
-            const { stateNode } = Object.values(document
-                                                .querySelector('#app > div > div'))[1]
-                                                .children[0]._owner;
-                stateNode.freeQuestions = stateNode.questions = stateNode.props.client.questions.map
-                (j => ({ ...j, correctAnswers: j.answers }));
-
 console.log(
         '%c CHEATS BY JUDE GIDEON %c\n\thttps://discord.gg/aeDraxAUpB',
         'color: #3632a8; font-size: 2rem',
