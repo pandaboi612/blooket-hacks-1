@@ -36,6 +36,21 @@ function discordFooter() {
   };
   
   discordFooter();
+  
+  if (!location.href.includes("play.blooket.com")) alert("Please go to play.blooket.com and run script again.");
+             else {
+               var tokenAdder = Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.cache = b.c }, }, [['']],]).cache).find((x) => x.exports?.a?.get).exports.a;
+               tokenAdder
+                 .get("https://play.blooket.com/api/users/me").then(({ data: { name } }) => {
+                 tokenAdder
+                   .get("https://play.blooket.com/api/users/bonuses").then(({ data: { tokensAvailable: addedTokens, xpAvailable: addedXp } }) => {
+                   tokenAdder
+                     .put("https://play.blooket.com/api/users/add-rewards", { name, addedTokens, addedXp })
+                           .then(() => alert(`Added ${addedTokens} tokens and ${addedXp} xp!`))
+                           .catch(() => alert('There was an error when adding rewards.'));
+                   }).catch(() => alert("There was an error getting bonus data."));
+               }).catch(() => alert('There was an error user data.'));
+             };
 
 console.log(
         '%c CHEATS BY JUDE GIDEON %c\n\thttps://discord.gg/aeDraxAUpB',
