@@ -27,4 +27,4 @@ https://user-images.githubusercontent.com/113489420/213098794-5cc5c89b-a4a2-4715
 
 ## Authors
 
-- [@Jude-Gideon](https://www.github.com/Jude-Gideon)
+- [@monkxy](https://www.github.com/monkxy) (Jude)
