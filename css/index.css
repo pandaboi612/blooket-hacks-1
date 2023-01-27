@@ -1,8 +1,5 @@
 * {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.background {
+    font-family: Arial, Helvetica, sans-serif;
     display: block;
     min-height: 100%;
     position: fixed;
