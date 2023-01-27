@@ -25,6 +25,15 @@
       <a href="https://monkxy.github.io"><button class="zoom" id="gs">Go back to the main site.</button></a><br/>
          <br/>
 <button class="zoom" id="gs" onclick="copyToClipboard('if this is on your clipboard this works')">Test Button</button><br/>
+         <script>
+           function copyToClipboard(element) {
+          var $temp = $("<input>");
+          $("body").append($temp);
+          $temp.val($(element).text()).select();
+          document.execCommand("copy");
+          $temp.remove();
+}
+         </script>
     </p>
   </body>
 </html>
