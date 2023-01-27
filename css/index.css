@@ -3,3 +3,8 @@
   color: #c9c9c9;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.bgimage {
+    position: absolute;
+    background-image: url(https://play.blooket.com/65a43218fd1cabe52bdf1cda34613e9e.png);
+}
