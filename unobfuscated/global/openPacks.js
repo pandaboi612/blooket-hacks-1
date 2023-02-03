@@ -42,7 +42,7 @@ var openPacks = Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.ca
 
 openPacks.get("https://dashboard.blooket.com/api/users").then(async ({ data: { name, tokens } }) => {
     let prices = Object.values(webpackJsonp.push([[], { ['']: (_, a, b) => { a.cache = b.c }, }, [['']],]).cache).find(x => x?.exports?.a?.Safari).exports.a || {
-        Medieval: 15, Breakfast: 15, Wonderland: 15, Space: 20, Bot: 20, Aquatic: 20, Safari: 20, Dino: 25, "Ice Monster": 25, Blizzard: 25
+        Medieval: 15, Breakfast: 15, Wonderland: 15, Space: 20, Bot: 20, Aquatic: 20, Safari: 20, Dino: 25, "Ice Monster": 25, Blizzard: 25, Outback: 25
     };;
     let pack = prompt("Which pack would you like to open? (ex: \"Ice Monster\")").split(' ').map(str => str.charAt(0).toUpperCase() + str.slice(1).toLowerCase()).join(' ');
     if (!Object.keys(prices).map(x => x.toLowerCase()).includes(pack.toLowerCase())) return alert("I couldn't find that pack...");
