@@ -3,7 +3,7 @@ name: Bug Report
 about: Report an issue you are having!
 title: 'BUG: FILE NAME'
 labels: "[BUG]"
-assignees: Jude-Gideon
+assignees: monkxy
 
 ---
 
