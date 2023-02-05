@@ -36,7 +36,7 @@
                                 margin-top: 200px;`
                             try { choiceDiv.children[i].appendChild(textElement); } catch (e) {
                                 if (confirm('An error occured, would you like to report this in the support discord server?')) {
-                                    window.open('https://discord.gg/y9rs4BzHm2');
+                                    window.open('https://discord.gg/aeDraxAUpB');
                                 };
                             };
                         });
